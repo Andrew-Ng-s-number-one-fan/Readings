@@ -1,6 +1,6 @@
 # 📚 Reading List
 
-**1. [Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#object-detection-)**
+**1. [Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#object-detection-)** <br>
 **2. [Semantic Segmentation]()**
 
 <br>
