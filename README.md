@@ -1,12 +1,11 @@
-# Reading List
+# 📚 Reading List
 
 **1. [Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#object-detection-)**
-
 **2. [Semantic Segmentation]()**
 
 <br>
 
-## Object Detection 🔍
+## Object Detection
 
 - "**[Faster R-CNN]()**", *NIPS*, 2015.
 - "**[Fast R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Object%20Detection/2015_cvpr_fast_r_cnn.pdf)**," *CVPR*, 2015.
