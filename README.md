@@ -3,10 +3,8 @@
 ## Content
 
   **1. [Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#object-detection)** <br>
-  **2. [Semantic Segmentation]()**
-  **3. [Causality]()**
-
-<br>
+  **2. [Semantic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#semantic-segmentation)** <br>
+  **3. [Causality](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#causality)** <br>
 
 ## Object Detection
 
