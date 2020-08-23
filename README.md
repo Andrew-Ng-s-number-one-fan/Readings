@@ -1,7 +1,7 @@
 # Reading List
 
-#### - [Object Detection]()
-#### - [Semantic Segmentation]()
+** 1. [Object Detection]()**
+** 2. [Semantic Segmentation]()**
 
 <br>
 
