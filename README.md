@@ -4,5 +4,5 @@
 
 ## Object Detection
 
-- "**[Fast R-CNN]()**," CVPR, 2015.
-- "**[Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation]()**," CVPR, 2014.
+- "**[Fast R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Object%20Detection/2015_cvpr_fast_r_cnn.pdf)**," CVPR, 2015.
+- "**[Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Object%20Detection/2014_cvpr_r_cnn.pdf)**," CVPR, 2014.
