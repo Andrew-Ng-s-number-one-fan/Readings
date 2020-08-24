@@ -28,6 +28,7 @@
 
 - "**[Panoptic Feature Pyramid Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Instance%20Segmentation/2019_cvpr_panoptic_fpn.pdf)**," *CVPR*, 2019.
 - "**[Panoptic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Instance%20Segmentation/2019_cvpr_panoptic_segmentation.pdf)**," *CVPR*, 2019.
+- "**[Learning to Segment Every Thing]()**," *CVPR*, 2018.
 - "**[Mask R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Object%20Detection/2017_iccv_mask_r_cnn.pdf)**," *ICCV*, 2017.
 
 
