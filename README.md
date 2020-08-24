@@ -20,14 +20,14 @@
 
 ## Semantic Segmentation
 
-- "**[Learning Deconvolution Network for Semantic Segmentation]()**," *ICCV*, 2015.
-- "**[Fully Convolutional Networks for Semantic Segmentation]()**," *CVPR*, 2015.
+- "**[Learning Deconvolution Network for Semantic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Semantic%20Segmentation/2015_iccv_deconvolution.pdf)**," *ICCV*, 2015.
+- "**[Fully Convolutional Networks for Semantic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Semantic%20Segmentation/2015_cvpr_fcn_for_semantic_segmentation.pdf)**," *CVPR*, 2015.
 
 
 ## Instance Segmentation
 
-- "**[Panoptic Feature Pyramid Networks]()**," *CVPR*, 2019.
-- "**[Panoptic Segmentation]()**," *CVPR*, 2019.
+- "**[Panoptic Feature Pyramid Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Instance%20Segmentation/2019_cvpr_panoptic_fpn.pdf)**," *CVPR*, 2019.
+- "**[Panoptic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Instance%20Segmentation/2019_cvpr_panoptic_segmentation.pdf)**," *CVPR*, 2019.
 - "**[Mask R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Object%20Detection/2017_iccv_mask_r_cnn.pdf)**," *ICCV*, 2017.
 
 
