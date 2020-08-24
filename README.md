@@ -9,7 +9,7 @@
 
 ## Object Detection
 
-- "**[Focal Loss for Dense Object Detection]()**," *ICCV*, 2018
+- "**[Focal Loss for Dense Object Detection]()**," *ICCV*, 2017.
 - "**[Feature Pyramid Networks for Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Object%20Detection/2017_cvpr_fpn.pdf)**," *CVPR*, 2017. 
 - "**[R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Object%20Detection/2016_nips_r_fcn.pdf)**," *NIPS*, 2016.
 - "**[Faster R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Object%20Detection/2015_nips_faster_r_cnn.pdf)**," *NIPS*, 2015.
