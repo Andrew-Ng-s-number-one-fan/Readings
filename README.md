@@ -26,6 +26,8 @@
 
 ## Instance Segmentation
 
+- "**[Panoptic Feature Pyramid Networks]()**," *CVPR*, 2019.
+- "**[Panoptic Segmentation]()**," *CVPR*, 2019.
 - "**[Mask R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Object%20Detection/2017_iccv_mask_r_cnn.pdf)**," *ICCV*, 2017.
 
 
