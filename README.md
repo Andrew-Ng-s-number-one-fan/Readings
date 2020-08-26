@@ -22,6 +22,7 @@
 
 ## Segmentation
 
+- "**[Feature Pyramid Transformer]()**,"" *ECCV*, 2020.
 - "**[Panoptic Feature Pyramid Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2019_cvpr_panoptic_fpn.pdf)**," *CVPR*, 2019.
 - "**[Panoptic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2019_cvpr_panoptic_segmentation.pdf)**," *CVPR*, 2019.
 - "**[Learning to Segment Every Thing](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2018_cvpr_learning_to_segment_every_thing.pdf)**," *CVPR*, 2018.
@@ -32,7 +33,6 @@
 
 ## Causality
 
-- "**[Feature Pyramid Transformer]()**,"" *ECCV*, 2020.
 - "**[Visual Commonsense R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_cvpr_vc_r_cnn.pdf)**," *CVPR*, 2020.
 
 
