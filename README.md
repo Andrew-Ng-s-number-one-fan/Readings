@@ -17,7 +17,7 @@
 - "**[Fast R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2015_cvpr_fast_r_cnn.pdf)**," *CVPR*, 2015.
 - "**[Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2015_tpami_spp_net.pdf)**," *TPAMI*, 2015.
 - "**[Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2014_cvpr_r_cnn.pdf)**," *CVPR*, 2014.
-- "**[Selective Search for Object Recognition](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2013_ijcv_selective_search.pdf)**", *IJCV*, 2013.
+- "**[Selective Search for Object Recognition](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2013_ijcv_selective_search.pdf)**," *IJCV*, 2013.
 
 
 ## Segmentation
