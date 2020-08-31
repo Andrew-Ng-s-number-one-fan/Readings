@@ -38,7 +38,7 @@
 
 ## Causality
 
-- "**[Deconfounded Image Captioning: A Causal Retrospect]()**," *arXiv preprint	arXiv:2003.03923*, 2020.
+- "**[Deconfounded Image Captioning: A Causal Retrospect]()**," *arXiv*, 2020.
 - "**[Visual Commonsense R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_cvpr_vc_r_cnn.pdf)**," *CVPR*, 2020.
 
 
