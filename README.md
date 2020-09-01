@@ -13,6 +13,7 @@
 
 ## Classification
 
+- "**[Transductive Multi-View Zero-Shot Learning]()**," *TPAMI*, 2015.
 - "**[Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer]()**," *CVPR*, 2009.
 
 
