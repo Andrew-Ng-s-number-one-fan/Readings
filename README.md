@@ -55,9 +55,10 @@
 
 ## Causality
 
+- "**[Visual Commonsense R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_cvpr_vc_r_cnn.pdf)**," *CVPR*, 2020.
 - "**[Two Causal Principles for Improving Visual Dialog]()**," *CVPR*, 2020.
 - "**[Unbiased Scene Graph Generation from Biased Training]()**," *CVPR*, 2020.
 - "**[Deconfounded Image Captioning: A Causal Retrospect]()**," *arXiv*, 2020.
-- "**[Visual Commonsense R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_cvpr_vc_r_cnn.pdf)**," *CVPR*, 2020.
-
+- "**[From Recognition to Cognition: Visual Commonsense Reasoning]()**," *CVPR*, 2019.
+- "**[Don’t Just Listen, Use Your Imagination: Leveraging Visual Common Sense for Non-Visual Tasks]()**," *CVPR*, 2015.
 
