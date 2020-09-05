@@ -39,7 +39,7 @@
 - "**[Learning to Segment Every Thing](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2018_cvpr_learning_to_segment_every_thing.pdf)**," *CVPR*, 2018.
 - "**[Mask R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_iccv_mask_r_cnn.pdf)**," *ICCV*, 2017.
 - "**[Learning Deconvolution Network for Semantic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2015_iccv_deconvolution.pdf)**," *ICCV*, 2015.
-- "**[Fully Convolutional Networks for Semantic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2015_cvpr_fcn_for_semantic_segmentation.pdf)**," *CVPR*, 2015.
+- "[Fully Convolutional Networks for Semantic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2015_cvpr_fcn_for_semantic_segmentation.pdf)," *CVPR*, 2015.
 
 
 ## Captioning
@@ -55,7 +55,7 @@
 
 ## Causality
 
-- "**[Visual Commonsense R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_cvpr_vc_r_cnn.pdf)**," *CVPR*, 2020.
+- "[Visual Commonsense R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_cvpr_vc_r_cnn.pdf)," *CVPR*, 2020.
 - "**[Two Causal Principles for Improving Visual Dialog]()**," *CVPR*, 2020.
 - "**[Unbiased Scene Graph Generation from Biased Training]()**," *CVPR*, 2020.
 - "**[Deconfounded Image Captioning: A Causal Retrospect]()**," *arXiv*, 2020.
