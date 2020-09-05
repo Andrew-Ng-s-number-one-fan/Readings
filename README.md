@@ -45,7 +45,7 @@
 ## Captioning
 
 - "**[Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering]()**," *CVPR*, 2018.
-- "**[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention]()**," *ICML*, 2015.
+- "[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention]()," *ICML*, 2015.
 
 
 ## Visual Question Answering
