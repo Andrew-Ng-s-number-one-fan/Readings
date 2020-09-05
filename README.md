@@ -6,7 +6,7 @@
   **2. [Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#detection)** <br>
   **3. [Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#segmentation)** <br>
   **4. [Captioning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#captioning)** <br>
-  **5. [Visual Question-Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-question-answering)** <br>
+  **5. [Visual Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-question-answering)** <br>
   **6. [Causality](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#causality)** <br>
 
 
