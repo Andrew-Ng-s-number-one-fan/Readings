@@ -42,14 +42,19 @@
 - "[Fully Convolutional Networks for Semantic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2015_cvpr_fcn_for_semantic_segmentation.pdf)," *CVPR*, 2015.
 
 
+
 ## Captioning
 
 - "**[Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering]()**," *CVPR*, 2018.
 - "[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention]()," *ICML*, 2015.
 
 
+
 ## Visual Question Answering
 
+- "**[VQA: Visual Question Answering]()**," *ICCV*, 2015.
+- "**[C-VQA: A Compositional Split of the Visual Question Answering (VQA) v1.0 Dataset]()**," *arXiv*, 2017.
+- "**[Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering]()**," *CVPR*, 2018.
 
 
 
