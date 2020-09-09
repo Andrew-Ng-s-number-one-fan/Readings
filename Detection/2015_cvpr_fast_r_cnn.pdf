@@ -17840,4 +17840,301 @@ f
 0000599721 00000 n
 0000599813 00000 n
 0000599891 00000 n
-trailer<</Size 477/Root 12 0 R/Info 2 0 R/ID[<96D2AE2F2910420BAA53D3EABB058D3C><96D2AE2F2910420BAA53D3EABB058D3C>]/Prev 580113>>startxref601084%%EOF
+trailer<</Size 477/Root 12 0 R/Info 2 0 R/ID[<96D2AE2F2910420BAA53D3EABB058D3C><96D2AE2F2910420BAA53D3EABB058D3C>]/Prev 580113>>startxref601084%%EOF2 0 obj<</Author(Ross Girshick)/CreationDate(D:20200824093258+08'00')/ModDate(D:20200907130502+08'00')/Producer(PyPDF2)/Subject(2015 IEEE International Conference on Computer Vision)/Title(Fast R-CNN)>>endobj4 0 obj<</Annots[119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R 127 0 R 477 0 R 478 0 R 479 0 R 480 0 R 481 0 R 482 0 R]/Contents 88 0 R/MediaBox[0 0 612 792]/Parent 1 0 R/Resources<</ColorSpace<</R65 89 0 R>>/ExtGState<</R29 29 0 R/R63 92 0 R>>/Font<</F1 114 0 R/F2 113 0 R/R30 60 0 R/R32 52 0 R/R34 49 0 R/R36 45 0 R/R38 41 0 R/R42 56 0 R/R59 105 0 R/R61 115 0 R/R75 109 0 R>>/Pattern<</R64 100 0 R/R66 102 0 R/R67 101 0 R/R69 104 0 R/R70 96 0 R/R71 97 0 R/R72 94 0 R/R73 95 0 R/R74 99 0 R/R77 98 0 R/R78 91 0 R/R79 93 0 R/R80 103 0 R>>/ProcSet[/Text/ImageC/ImageB/PDF/ImageI]/XObject<</R68 90 0 R>>>>/Rotate 0/Type/Page>>endobj453 0 obj<</Length 3577/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c015 91.163280, 2018/06/22-11:31:03        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+         <dc:format>application/pdf</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Ross Girshick</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">2015 IEEE International Conference on Computer Vision</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Fast R-CNN</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <pdf:Producer>PyPDF2</pdf:Producer>
+         <xmp:ModifyDate>2020-09-07T13:05:02+08:00</xmp:ModifyDate>
+         <xmp:CreateDate>2020-08-24T09:32:58+08:00</xmp:CreateDate>
+         <xmp:MetadataDate>2020-09-07T13:05:02+08:00</xmp:MetadataDate>
+         <xmpMM:DocumentID>uuid:c5f038e6-9a2c-9c48-b913-e1ec6f4f6995</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:1e59f38b-d97e-c844-8930-818be3c5d0db</xmpMM:InstanceID>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>endstreamendobj477 0 obj<</AP<</N 489 0 R>>/C[0.219604 0.898041 1.0]/CA 0.399994/CreationDate(D:20200907130253+08'00')/F 4/M(D:20200907130253+08'00')/NM(b24d8649-ed34-f04f-b3f4-f318c8f52803)/P 4 0 R/Popup 478 0 R/QuadPoints[115.148 305.769 211.519 305.769 115.148 296.743 211.519 296.743]/Rect[112.738 296.461 213.928 306.051]/Subj(˛ˇöÿNÆ)/Subtype/Highlight/T(dongdongdongdong)/Type/Annot>>endobj478 0 obj<</F 28/Open false/Parent 477 0 R/Rect[612.0 191.769 816.0 305.769]/Subtype/Popup/Type/Annot>>endobj479 0 obj<</AP<</N 486 0 R>>/C[0.219604 0.898041 1.0]/CA 0.399994/CreationDate(D:20200907130343+08'00')/F 4/M(D:20200907130343+08'00')/NM(c818ecd2-1079-a14e-a959-9b47d55d3a98)/P 4 0 R/Popup 480 0 R/QuadPoints[80.8363 171.54 152.696 171.54 80.8363 162.514 152.696 162.514]/Rect[78.4268 162.232 155.106 171.822]/Subj(˛ˇöÿNÆ)/Subtype/Highlight/T(dongdongdongdong)/Type/Annot>>endobj480 0 obj<</F 28/Open false/Parent 479 0 R/Rect[612.0 57.5397 816.0 171.54]/Subtype/Popup/Type/Annot>>endobj481 0 obj<</AP<</N 483 0 R>>/C[0.219604 0.898041 1.0]/CA 0.399994/CreationDate(D:20200907130459+08'00')/F 4/M(D:20200907130459+08'00')/NM(97535bbb-7ea7-c54b-8b4b-4120f9b6a4ff)/P 4 0 R/Popup 482 0 R/QuadPoints[238.265 111.763 286.365 111.763 238.265 102.737 286.365 102.737 144.564 100.426 187.258 100.426 144.564 90.4631 187.258 90.4631 50.1117 99.8079 141.787 99.8079 50.1117 90.7821 141.787 90.7821 190.041 99.8079 286.359 99.8079 190.041 90.7821 286.359 90.7821 78.0464 88.4706 98.7439 88.4706 78.0464 78.508 98.7439 78.508 199.483 88.4706 224.792 88.4706 199.483 78.508 224.792 78.508 50.1116 87.8528 75.5559 87.8528 50.1116 78.827 75.5559 78.827 101.244 87.8528 196.994 87.8528 101.244 78.827 196.994 78.827]/Rect[47.7021 78.1967 288.774 112.045]/Subj(˛ˇöÿNÆ)/Subtype/Highlight/T(dongdongdongdong)/Type/Annot>>endobj482 0 obj<</F 28/Open false/Parent 481 0 R/Rect[612.0 -2.23697 816.0 111.763]/Subtype/Popup/Type/Annot>>endobj483 0 obj<</BBox[0.0 0.0 241.072 33.8484]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 484 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+endstreamendobj484 0 obj<</BBox[0.0 0.0 241.072 33.8484]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 485 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+endstreamendobj485 0 obj<</BBox[47.7021 78.1967 288.774 112.045]/Filter[/FlateDecode]/FormType 1/Length 429/Matrix[1.0 0.0 0.0 1.0 -47.7021 -78.1967]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+Hâ\î1í!EÛ>'P!!êtû≠Ú&„ƒâØÔO/ —ø˚I¡L%·UK%Ø ÖÀüÔßR¯˛˜ëÊ$£k·*dÕ§¸F6àõ#RÚ°£ú h¥>ÉM1ìçVæÒAm®gÙA‰§!rq'Ÿ•€˝øû_–"=Vù¶Z¢íé∆∞cÏiH	!gnÂN’¨óÑ∏Çín®…n$›OÙA´zsÏ ⁄Õ‘÷‰z%l’ÊCsôfjÆm‚Q£ó\ØΩ$‰’bZ)fÂhΩ#Xi£`ç§N∞ huûZåE’:.ùiÌ3ÿ•J£˜<z¥ÀË=4ñÿ	V·]FyÜÜÒÍ–Çœ^b÷iÑKq‹…éqÁ∑L‰}ÒfÉ›◊É2më	∆Tôj†’ÜN∞™nfµ˝R@º]*å=qÎ«ÂªÓféb≤‡[;%÷ztN∞
+'t˘¸wó∆|ÊòŸæJ/79◊ùLª€ N‘ªÃjbÔ=2˘<6è´µdrΩjnb5}Ñ!ä∂KªÁ˘€⁄PÆW—$é	˛o(Ôï9DˆÉe∞Í&tŸ¸` ÛÏ‡endstreamendobj486 0 obj<</BBox[0.0 0.0 76.6791 9.59]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 487 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+endstreamendobj487 0 obj<</BBox[0.0 0.0 76.6791 9.59]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 488 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+endstreamendobj488 0 obj<</BBox[78.4268 162.232 155.106 171.822]/FormType 1/Length 182/Matrix[1.0 0.0 0.0 1.0 -78.4268 -162.232]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+0.219604 0.898041 1 rg
+0.5641 w
+80.8363 162.5139 m
+78.7089 164.6413 78.7089 169.4123 80.8363 171.5397 c
+152.6965 171.5397 l
+154.8239 169.4123 154.8239 164.6413 152.6965 162.5139 c
+f
+endstreamendobj489 0 obj<</BBox[0.0 0.0 101.19 9.59]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 490 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+endstreamendobj490 0 obj<</BBox[0.0 0.0 101.19 9.59]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 491 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+endstreamendobj491 0 obj<</BBox[112.738 296.461 213.928 306.051]/FormType 1/Length 184/Matrix[1.0 0.0 0.0 1.0 -112.738 -296.461]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+0.219604 0.898041 1 rg
+0.5641 w
+115.1477 296.743 m
+113.0202 298.8704 113.0202 303.6414 115.1477 305.7688 c
+211.5187 305.7688 l
+213.6461 303.6414 213.6461 298.8704 211.5187 296.743 c
+f
+endstreamendobjxref
+0 1
+0000000000 65535 f
+2 1
+0000601847 00000 n
+4 1
+0000602058 00000 n
+453 1
+0000602708 00000 n
+477 15
+0000606363 00000 n
+0000606747 00000 n
+0000606859 00000 n
+0000607241 00000 n
+0000607352 00000 n
+0000608176 00000 n
+0000608289 00000 n
+0000608636 00000 n
+0000608871 00000 n
+0000609517 00000 n
+0000609861 00000 n
+0000610093 00000 n
+0000610471 00000 n
+0000610814 00000 n
+0000611045 00000 n
+trailer<</Size 492/Root 12 0 R/Info 2 0 R/ID[<96D2AE2F2910420BAA53D3EABB058D3C><15807D9AD1C14167A21FACA1444B0498>]/Prev 601084>>startxref611425%%EOF2 0 obj<</Author(Ross Girshick)/CreationDate(D:20200824093258+08'00')/ModDate(D:20200908161254+08'00')/Producer(PyPDF2)/Subject(2015 IEEE International Conference on Computer Vision)/Title(Fast R-CNN)>>endobj4 0 obj<</Annots[119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R 127 0 R 477 0 R 478 0 R 479 0 R 480 0 R 481 0 R 482 0 R 512 0 R 513 0 R 514 0 R 515 0 R 516 0 R 517 0 R]/Contents 88 0 R/MediaBox[0 0 612 792]/Parent 1 0 R/Resources<</ColorSpace<</R65 89 0 R>>/ExtGState<</R29 29 0 R/R63 92 0 R>>/Font<</F1 114 0 R/F2 113 0 R/R30 60 0 R/R32 52 0 R/R34 49 0 R/R36 45 0 R/R38 41 0 R/R42 56 0 R/R59 105 0 R/R61 115 0 R/R75 109 0 R>>/Pattern<</R64 100 0 R/R66 102 0 R/R67 101 0 R/R69 104 0 R/R70 96 0 R/R71 97 0 R/R72 94 0 R/R73 95 0 R/R74 99 0 R/R77 98 0 R/R78 91 0 R/R79 93 0 R/R80 103 0 R>>/ProcSet[/Text/ImageC/ImageB/PDF/ImageI]/XObject<</R68 90 0 R>>>>/Rotate 0/Type/Page>>endobj5 0 obj<</Annots[158 0 R 159 0 R 160 0 R 161 0 R 162 0 R 163 0 R 164 0 R 165 0 R 166 0 R 167 0 R 168 0 R 169 0 R 170 0 R 171 0 R 492 0 R 493 0 R 494 0 R 495 0 R 496 0 R 497 0 R 498 0 R 499 0 R]/Contents 128 0 R/MediaBox[0 0 612 792]/Parent 1 0 R/Resources<</ExtGState<</R29 29 0 R>>/Font<</F1 153 0 R/F2 152 0 R/R104 145 0 R/R106 154 0 R/R108 129 0 R/R110 136 0 R/R112 133 0 R/R114 149 0 R/R116 140 0 R/R30 60 0 R/R32 52 0 R/R36 45 0 R/R38 41 0 R/R42 56 0 R/R59 105 0 R>>/ProcSet[/ImageC/Text/PDF/ImageI/ImageB]>>/Rotate 0/Type/Page>>endobj453 0 obj<</Length 3577/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c015 91.163280, 2018/06/22-11:31:03        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+         <dc:format>application/pdf</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Ross Girshick</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">2015 IEEE International Conference on Computer Vision</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Fast R-CNN</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <pdf:Producer>PyPDF2</pdf:Producer>
+         <xmp:ModifyDate>2020-09-08T16:12:54+08:00</xmp:ModifyDate>
+         <xmp:CreateDate>2020-08-24T09:32:58+08:00</xmp:CreateDate>
+         <xmp:MetadataDate>2020-09-08T16:12:54+08:00</xmp:MetadataDate>
+         <xmpMM:DocumentID>uuid:c5f038e6-9a2c-9c48-b913-e1ec6f4f6995</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:a5dc609e-a49b-124e-b499-2f86d2eafed6</xmpMM:InstanceID>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>endstreamendobj492 0 obj<</AP<</N 509 0 R>>/C[0.219604 0.898041 1.0]/CA 0.399994/CreationDate(D:20200907141427+08'00')/F 4/M(D:20200907141427+08'00')/NM(a9e71b9f-94ae-8848-8537-83c14069179e)/P 5 0 R/Popup 493 0 R/QuadPoints[125.778 355.887 141.28 355.887 125.778 346.861 141.28 346.861]/Rect[123.368 346.579 143.689 356.169]/Subj(˛ˇöÿNÆ)/Subtype/Highlight/T(dongdongdongdong)/Type/Annot>>endobj493 0 obj<</F 28/Open false/Parent 492 0 R/Rect[612.0 241.887 816.0 355.887]/Subtype/Popup/Type/Annot>>endobj494 0 obj<</AP<</N 506 0 R>>/C[0.219604 0.898041 1.0]/CA 0.399994/CreationDate(D:20200907141442+08'00')/F 4/M(D:20200907141442+08'00')/NM(fde0b802-4cee-4649-8c21-a2e3e9184d4c)/P 5 0 R/Popup 495 0 R/QuadPoints[174.874 320.02 202.54 320.02 174.874 310.995 202.54 310.995]/Rect[172.464 310.712 204.949 320.302]/Subj(˛ˇöÿNÆ)/Subtype/Highlight/T(dongdongdongdong)/Type/Annot>>endobj495 0 obj<</F 28/Open false/Parent 494 0 R/Rect[612.0 206.02 816.0 320.02]/Subtype/Popup/Type/Annot>>endobj496 0 obj<</AP<</N 503 0 R>>/C[0.219604 0.898041 1.0]/CA 0.399994/CreationDate(D:20200907141514+08'00')/F 4/M(D:20200907141514+08'00')/NM(81f592a6-f3c6-d942-a7b3-93b77d7d9a9b)/P 5 0 R/Popup 497 0 R/QuadPoints[62.0676 248.29 133.579 248.29 62.0676 239.264 133.579 239.264]/Rect[59.6581 238.982 135.988 248.572]/Subj(˛ˇöÿNÆ)/Subtype/Highlight/T(dongdongdongdong)/Type/Annot>>endobj497 0 obj<</F 28/Open false/Parent 496 0 R/Rect[612.0 134.29 816.0 248.29]/Subtype/Popup/Type/Annot>>endobj498 0 obj<</AP<</N 500 0 R>>/C[0.219604 0.898041 1.0]/CA 0.399994/CreationDate(D:20200907141746+08'00')/F 4/M(D:20200907141746+08'00')/NM(bd1b35c0-945c-9445-860f-24a5de440154)/P 5 0 R/Popup 499 0 R/QuadPoints[489.21 716.891 545.11 716.891 489.21 707.865 545.11 707.865 308.864 704.936 349.661 704.936 308.864 695.91 349.661 695.91]/Rect[306.455 695.628 547.52 717.173]/Subj(˛ˇöÿNÆ)/Subtype/Highlight/T(dongdongdongdong)/Type/Annot>>endobj499 0 obj<</F 28/Open false/Parent 498 0 R/Rect[612.0 602.891 816.0 716.891]/Subtype/Popup/Type/Annot>>endobj500 0 obj<</BBox[0.0 0.0 241.065 21.5451]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 501 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+endstreamendobj501 0 obj<</BBox[0.0 0.0 241.065 21.5451]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 502 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+endstreamendobj502 0 obj<</BBox[306.455 695.628 547.52 717.173]/Filter[/FlateDecode]/FormType 1/Length 160/Matrix[1.0 0.0 0.0 1.0 -306.455 -695.628]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+HâLé;√@˚='@∞¸œc)iú&MÆ¨ƒ^whƒå·‰rR ÃJRÜ˜sö˜˝ö’ònjH9≠Qa’TXÑ√Â ?âΩ£T∞SCf∫±ΩY‡î∏yãúÌÂ˝l„1Ñ≤oU2ÏVı,!«êhîH'öòî
+ó§XbŸ-—Bwñ≈ˆ!∆ôwÛ$+~z◊Çc◊WÄ àBAHendstreamendobj503 0 obj<</BBox[0.0 0.0 76.3303 9.59]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 504 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+endstreamendobj504 0 obj<</BBox[0.0 0.0 76.3303 9.59]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 505 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+endstreamendobj505 0 obj<</BBox[59.6581 238.982 135.988 248.572]/FormType 1/Length 182/Matrix[1.0 0.0 0.0 1.0 -59.6581 -238.982]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+0.219604 0.898041 1 rg
+0.5641 w
+62.0676 239.2642 m
+59.9401 241.3916 59.9401 246.1626 62.0676 248.2901 c
+133.5789 248.2901 l
+135.7063 246.1626 135.7063 241.3916 133.5789 239.2642 c
+f
+endstreamendobj506 0 obj<</BBox[0.0 0.0 32.4852 9.59]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 507 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+endstreamendobj507 0 obj<</BBox[0.0 0.0 32.4852 9.59]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 508 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+endstreamendobj508 0 obj<</BBox[172.464 310.712 204.949 320.302]/FormType 1/Length 182/Matrix[1.0 0.0 0.0 1.0 -172.464 -310.712]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+0.219604 0.898041 1 rg
+0.5641 w
+174.8736 310.9945 m
+172.7462 313.122 172.7462 317.893 174.8736 320.0204 c
+202.5399 320.0204 l
+204.6673 317.893 204.6673 313.122 202.5399 310.9945 c
+f
+endstreamendobj509 0 obj<</BBox[0.0 0.0 20.3208 9.59]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 510 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+endstreamendobj510 0 obj<</BBox[0.0 0.0 20.3208 9.59]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 511 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+endstreamendobj511 0 obj<</BBox[123.368 346.579 143.689 356.169]/FormType 1/Length 184/Matrix[1.0 0.0 0.0 1.0 -123.368 -346.579]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+0.219604 0.898041 1 rg
+0.5641 w
+125.778 346.8607 m
+123.6505 348.9881 123.6505 353.7591 125.778 355.8865 c
+141.2798 355.8865 l
+143.4072 353.7591 143.4072 348.9881 141.2798 346.8607 c
+f
+endstreamendobj512 0 obj<</AP<</N 524 0 R>>/C[0.219604 0.898041 1.0]/CA 0.399994/CreationDate(D:20200907130616+08'00')/F 4/M(D:20200907130616+08'00')/NM(efad5dc0-42a4-294f-931b-53e829d97d31)/P 4 0 R/Popup 513 0 R/QuadPoints[370.021 571.385 545.108 571.385 370.021 563.261 545.108 563.261 308.862 560.426 473.252 560.426 308.862 552.302 473.252 552.302]/Rect[306.693 552.049 547.277 571.639]/Subj(˛ˇöÿNÆ)/Subtype/Highlight/T(dongdongdongdong)/Type/Annot>>endobj513 0 obj<</F 28/Open false/Parent 512 0 R/Rect[612.0 457.385 816.0 571.385]/Subtype/Popup/Type/Annot>>endobj514 0 obj<</AP<</N 521 0 R>>/C[0.219604 0.898041 1.0]/CA 0.399994/CreationDate(D:20200907130759+08'00')/F 4/M(D:20200907130759+08'00')/NM(680b36f1-5dd2-7547-b8dc-3764950242cd)/P 4 0 R/Popup 515 0 R/QuadPoints[397.678 340.383 482.619 340.383 397.678 331.357 482.619 331.357]/Rect[395.269 331.075 485.029 340.665]/Subj(˛ˇöÿNÆ)/Subtype/Highlight/T(dongdongdongdong)/Type/Annot>>endobj515 0 obj<</F 28/Open false/Parent 514 0 R/Rect[612.0 226.383 816.0 340.383]/Subtype/Popup/Type/Annot>>endobj516 0 obj<</AP<</N 518 0 R>>/C[0.219604 0.898041 1.0]/CA 0.399994/CreationDate(D:20200907140838+08'00')/F 4/M(D:20200907140838+08'00')/NM(f21ff07e-fa6b-1c4e-991b-837af5b257b6)/P 4 0 R/Popup 517 0 R/QuadPoints[408.318 123.718 545.114 123.718 408.318 114.692 545.114 114.692 308.862 111.763 412.115 111.763 308.862 102.737 412.115 102.737]/Rect[306.452 102.455 547.524 124.0]/Subj(˛ˇöÿNÆ)/Subtype/Highlight/T(dongdongdongdong)/Type/Annot>>endobj517 0 obj<</F 28/Open false/Parent 516 0 R/Rect[612.0 9.71835 816.0 123.718]/Subtype/Popup/Type/Annot>>endobj518 0 obj<</BBox[0.0 0.0 241.071 21.5451]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 519 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+endstreamendobj519 0 obj<</BBox[0.0 0.0 241.071 21.5451]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 520 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+endstreamendobj520 0 obj<</BBox[306.452 102.455 547.524 124.0]/Filter[/FlateDecode]/FormType 1/Length 161/Matrix[1.0 0.0 0.0 1.0 -306.452 -102.455]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+HâLé;!{N·X<¸¡>O§§Ÿ4ir˝)àÌ–†yûŒÈ]©sdtÅ>Ø÷Ÿºﬁﬂ¶=X0É eœaÙ.Êå,pd“!lŸŸﬁû•G35Ævõ<~ÃCˆ˙Òv√£=õ‘Öp$°û2µ §:¶®”˙‘†Iv±E∂tëZSåu¡ªäÈÍ»cﬁ»˝xªaï˝ 0/B
+endstreamendobj521 0 obj<</BBox[0.0 0.0 89.76 9.59]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 522 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+endstreamendobj522 0 obj<</BBox[0.0 0.0 89.76 9.59]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 523 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+endstreamendobj523 0 obj<</BBox[395.269 331.075 485.029 340.665]/FormType 1/Length 182/Matrix[1.0 0.0 0.0 1.0 -395.269 -331.075]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+0.219604 0.898041 1 rg
+0.5641 w
+397.678 331.3573 m
+395.5506 333.4847 395.5506 338.2557 397.678 340.3831 c
+482.619 340.3831 l
+484.7465 338.2557 484.7465 333.4847 482.619 331.3573 c
+f
+endstreamendobj524 0 obj<</BBox[0.0 0.0 240.583 19.5901]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 525 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+endstreamendobj525 0 obj<</BBox[0.0 0.0 240.583 19.5901]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 526 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+endstreamendobj526 0 obj<</BBox[306.693 552.049 547.277 571.639]/Filter[/FlateDecode]/FormType 1/Length 161/Matrix[1.0 0.0 0.0 1.0 -306.693 -552.049]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+HâLè91 {øÇ ¿\~O§§Ÿ4iÚ˝‡hWl;x`L(ºús%)√Á5ç"‡;fíÛâ‚l”ô‹ãr∏¿ç,‘ ÜˆÇq¶&<Üi=ßîfG±®wímﬁ»πΩΩ´·1ûcRbÓ©	Ní9.ç:jZˇä
+kíhÃõúö™ÿÓ™9ä…lv´õÓ´≈9ó∑w%ÏÆü  º<A”endstreamendobjxref
+0 1
+0000000000 65535 f
+2 1
+0000611994 00000 n
+4 2
+0000612205 00000 n
+0000612903 00000 n
+453 1
+0000613446 00000 n
+492 35
+0000617101 00000 n
+0000617483 00000 n
+0000617595 00000 n
+0000617975 00000 n
+0000618085 00000 n
+0000618467 00000 n
+0000618577 00000 n
+0000619018 00000 n
+0000619130 00000 n
+0000619477 00000 n
+0000619712 00000 n
+0000620088 00000 n
+0000620432 00000 n
+0000620664 00000 n
+0000621042 00000 n
+0000621386 00000 n
+0000621618 00000 n
+0000621996 00000 n
+0000622340 00000 n
+0000622572 00000 n
+0000622952 00000 n
+0000623400 00000 n
+0000623512 00000 n
+0000623896 00000 n
+0000624008 00000 n
+0000624454 00000 n
+0000624566 00000 n
+0000624913 00000 n
+0000625148 00000 n
+0000625524 00000 n
+0000625866 00000 n
+0000626096 00000 n
+0000626474 00000 n
+0000626821 00000 n
+0000627056 00000 n
+trailer<</Size 527/Root 12 0 R/Info 2 0 R/ID[<96D2AE2F2910420BAA53D3EABB058D3C><9FF172EA4ADD4C2B8A7A8AEFE2295B61>]/Prev 611425>>startxref627434%%EOF
