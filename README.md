@@ -7,7 +7,8 @@
   **3. [Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#segmentation)** <br>
   **4. [Captioning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#captioning)** <br>
   **5. [Visual Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-question-answering)** <br>
-  **6. [Causality](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#causality)** <br>
+  **6. [Visual Commonsense](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-commonsense)** <br>
+  **7. [Causality](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#causality)** <br>
 
 
 
@@ -24,6 +25,7 @@
 - "**[YOLOv3: An Incremental Improvement](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2018_arxiv_yolo_v3.pdf)**,"" *arXiv*, 2018.
 - "**[Focal Loss for Dense Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_iccv_focal_loss.pdf)**," *ICCV*, 2017.
 - "**[Feature Pyramid Networks for Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_cvpr_fpn.pdf)**," *CVPR*, 2017.
+- "[SSD: Single Shot MultiBox Detector]()," *ECCV*, 2016.
 - "**[You Only Look Once: Unified, Real-Time Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2016_cvpr_yolo.pdf)**," *CVPR*, 2016.
 - "**[R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2016_nips_r_fcn.pdf)**," *NeurIPS*, 2016.
 - "[Faster R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2015_nips_faster_r_cnn.pdf)," *NeurIPS*, 2015.
@@ -69,7 +71,7 @@
 
 - "**[VisualCOMET: Reasoning about the Dynamic Context of a Still Image](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2020_arxiv_visual_comet.pdf)**," *arXiv*, 2020.
 - "[Visual Commonsense R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2020_cvpr_vc_r_cnn.pdf)," *CVPR*, 2020.
-- "**[From Recognition to Cognition: Visual Commonsense Reasoning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2019_cvpr_vcr.pdf)**," *CVPR*, 2019.
+- "[From Recognition to Cognition: Visual Commonsense Reasoning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2019_cvpr_vcr.pdf)," *CVPR*, 2019.
 - "**[Heterogeneous Graph Learning for Visual Commonsense Reasoning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2019_nips_heterogeneous_graph_learning_for_visual_commonsense_reasoning.pdf)**," *NeurIPS*, 2019.
 - "**[Stating the Obvious: Extracting Visual Common Sense Knowledge](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2016_naacl_stating_the_obvious_extracting_visual_common_sense_knowledge.pdf)**," *NAACL*, 2016.
 - "**[Don’t Just Listen, Use Your Imagination: Leveraging Visual Common Sense for Non-Visual Tasks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2015_cvpr_leveraging_visual_common_sense_for_non_visual_tasks.pdf)**," *CVPR*, 2015.
