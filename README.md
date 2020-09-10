@@ -9,6 +9,8 @@
   **5. [Visual Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-question-answering)** <br>
   **6. [Visual Commonsense](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-commonsense)** <br>
   **7. [Causality](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#causality)** <br>
+  **8. [Attentions](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#attention)** <br>
+  **9. [Metrics](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#metrics)** <br>
 
 
 
@@ -84,5 +86,24 @@
 - "**[Two Causal Principles for Improving Visual Dialog](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_cvpr_causal_principles.pdf)**," *CVPR*, 2020.
 - "**[Unbiased Scene Graph Generation from Biased Training](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_cvpr_unbiased_sgg_from_biased_training.pdf)**," *CVPR*, 2020.
 - "**[Deconfounded Image Captioning: A Causal Retrospect](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_arxiv_deconfounded_image_captioning.pdf)**," *arXiv*, 2020.
+
+
+
+## Attentions
+
+- "**[VL-BERT: Pre-Training of Generic Visuallinguistic Representations]()**," *ICLR*, 2020.
+- "**[VisualBERT: A Simple and Performant Baseline for Vision and Language]()**," *arXiv*, 2019.
+- "**[ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks]()**," *arXiv*, 2019.
+- "**[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding]()**," *EMNLP*, 2018.
+- "**[Attention is All You Need]()**," *NeurIPS*, 2017.
+- "**[Neural Machine Translation by Jointly Learning to Align and Translate]()**," *ICLR*, 2015.
+
+
+
+# Metrics
+
+- "**[SPICE: Semantic Propositional Image Caption Evaluation]()**," *ECCV*, 2016.
+- "**[CIDEr: Consensus-based Image Description Evaluation]()**," *CVPR*, 2015.
+- "**[BLEU: a Method for Automatic Evaluation of Machine Translation]()**," *ACL*, 2002.
 
 
