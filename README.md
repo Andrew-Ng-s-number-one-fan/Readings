@@ -24,8 +24,14 @@
 ## Detection
 
 - "**[YOLOv4: Optimal Speed and Accuracy of Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2020_arxiv_yolo_v4.pdf)**,"  *arXiv*, 2020.
+- "**[Reasoning-RCNN: Unifying Adaptive Global Reasoning into Large-Scale Object Detection]()**," *CVPR*, 2019.
+- "**[Deformable ConvNets v2: More Deformable, Better Results]()**," *CVPR*, 2019.
+- "**[Objects as Points]()**," *arXiv*, 2019.
+- "**[CornerNet: Detecting Objects as Paired Keypoints]()**," *ECCV*, 2018.
+- "**[Non-local Neural Networks]()**," *CVPR*, 2018.
 - "**[YOLOv3: An Incremental Improvement](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2018_arxiv_yolo_v3.pdf)**,"" *arXiv*, 2018.
 - "**[Focal Loss for Dense Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_iccv_focal_loss.pdf)**," *ICCV*, 2017.
+- "**[Deformable Convolutional Networks]()**," *ICCV*, 2017.
 - "**[Feature Pyramid Networks for Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_cvpr_fpn.pdf)**," *CVPR*, 2017.
 - "**[Deformable Convolutional Networks]()**," *ICCV*, 2017.
 - "[R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2016_nips_r_fcn.pdf)," *NeurIPS*, 2016.
@@ -83,6 +89,9 @@
 
 ## Causality
 
+- "
+- "**[Counterfactual Samples Synthesizing for Robust Visual Question Answering]()**," *CVPR*, 2020.
+- "**[Counterfactual VQA: A Cause-Effect Look at Language Bias]()**," *arXiv*, 2020.
 - "**[Two Causal Principles for Improving Visual Dialog](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_cvpr_causal_principles.pdf)**," *CVPR*, 2020.
 - "**[Unbiased Scene Graph Generation from Biased Training](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_cvpr_unbiased_sgg_from_biased_training.pdf)**," *CVPR*, 2020.
 - "**[Deconfounded Image Captioning: A Causal Retrospect](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_arxiv_deconfounded_image_captioning.pdf)**," *arXiv*, 2020.
@@ -100,7 +109,7 @@
 
 
 
-# Metrics
+## Metrics
 
 - "**[SPICE: Semantic Propositional Image Caption Evaluation]()**," *ECCV*, 2016.
 - "**[CIDEr: Consensus-based Image Description Evaluation]()**," *CVPR*, 2015.
