@@ -25,9 +25,10 @@
 - "**[YOLOv3: An Incremental Improvement](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2018_arxiv_yolo_v3.pdf)**,"" *arXiv*, 2018.
 - "**[Focal Loss for Dense Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_iccv_focal_loss.pdf)**," *ICCV*, 2017.
 - "**[Feature Pyramid Networks for Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_cvpr_fpn.pdf)**," *CVPR*, 2017.
+- "**[Deformable Convolutional Networks]()**," *ICCV*, 2017.
+- "[R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2016_nips_r_fcn.pdf)," *NeurIPS*, 2016.
 - "[SSD: Single Shot MultiBox Detector]()," *ECCV*, 2016.
 - "**[You Only Look Once: Unified, Real-Time Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2016_cvpr_yolo.pdf)**," *CVPR*, 2016.
-- "**[R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2016_nips_r_fcn.pdf)**," *NeurIPS*, 2016.
 - "[Faster R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2015_nips_faster_r_cnn.pdf)," *NeurIPS*, 2015.
 - "[Fast R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2015_cvpr_fast_r_cnn.pdf)," *CVPR*, 2015.
 - "[Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2015_tpami_spp_net.pdf)," *TPAMI*, 2015.
