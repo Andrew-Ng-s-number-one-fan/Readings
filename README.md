@@ -24,22 +24,21 @@
 ## Detection
 
 - "**[YOLOv4: Optimal Speed and Accuracy of Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2020_arxiv_yolo_v4.pdf)**,"  *arXiv*, 2020.
-- "**[Reasoning-RCNN: Unifying Adaptive Global Reasoning into Large-Scale Object Detection]()**," *CVPR*, 2019.
-- "**[Deformable ConvNets v2: More Deformable, Better Results]()**," *CVPR*, 2019.
-- "**[Objects as Points]()**," *arXiv*, 2019.
-- "**[CornerNet: Detecting Objects as Paired Keypoints]()**," *ECCV*, 2018.
-- "**[Non-local Neural Networks]()**," *CVPR*, 2018.
+- "**[Reasoning-RCNN: Unifying Adaptive Global Reasoning into Large-Scale Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2019_cvpr_reasoning_rcnn.pdf)**," *CVPR*, 2019.
+- "**[Deformable ConvNets v2: More Deformable, Better Results](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2019_cvpr_deformable_conv_nets_v2.pdf)**," *CVPR*, 2019.
+- "**[Objects as Points](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2019_arxiv_objects_as_points.pdf)**," *arXiv*, 2019.
+- "**[CornerNet: Detecting Objects as Paired Keypoints](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2018_eccv_corner_net.pdf)**," *ECCV*, 2018.
+- "**[Non-local Neural Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2018_cvpr_non_local_neural_networks.pdf)**," *CVPR*, 2018.
 - "**[YOLOv3: An Incremental Improvement](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2018_arxiv_yolo_v3.pdf)**,"" *arXiv*, 2018.
 - "**[Focal Loss for Dense Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_iccv_focal_loss.pdf)**," *ICCV*, 2017.
-- "**[Deformable Convolutional Networks]()**," *ICCV*, 2017.
 - "**[Feature Pyramid Networks for Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_cvpr_fpn.pdf)**," *CVPR*, 2017.
-- "**[Deformable Convolutional Networks]()**," *ICCV*, 2017.
+- "**[Deformable Convolutional Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_iccv_deformable_convolutional_nets%20.pdf)**," *ICCV*, 2017.
 - "[R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2016_nips_r_fcn.pdf)," *NeurIPS*, 2016.
-- "[SSD: Single Shot MultiBox Detector]()," *ECCV*, 2016.
+- "[SSD: Single Shot MultiBox Detector](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2016_eccv_ssd.pdf)," *ECCV*, 2016.
 - "**[You Only Look Once: Unified, Real-Time Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2016_cvpr_yolo.pdf)**," *CVPR*, 2016.
 - "[Faster R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2015_nips_faster_r_cnn.pdf)," *NeurIPS*, 2015.
 - "[Fast R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2015_cvpr_fast_r_cnn.pdf)," *CVPR*, 2015.
-- "[Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2015_tpami_spp_net.pdf)," *TPAMI*, 2015.
+- "[Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2015_tpami_spp_net.pdf)," *IEEE TPAMI*, 2015.
 - "[Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2014_cvpr_r_cnn.pdf)," *CVPR*, 2014.
 - "**[Selective Search for Object Recognition](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2013_ijcv_selective_search.pdf)**," *IJCV*, 2013.
 
@@ -49,11 +48,13 @@
 
 - "**[Panoptic Feature Pyramid Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2019_cvpr_panoptic_fpn.pdf)**," *CVPR*, 2019.
 - "**[Panoptic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2019_cvpr_panoptic_segmentation.pdf)**," *CVPR*, 2019.
+- "**[DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2018_tpami_deeplab.pdf)**," *IEEE TPAMI*, 2018.
 - "**[Learning to Segment Every Thing](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2018_cvpr_learning_to_segment_every_thing.pdf)**," *CVPR*, 2018.
 - "**[Mask R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_iccv_mask_r_cnn.pdf)**," *ICCV*, 2017.
+- "**[Rethinking Atrous Convolution for Semantic Image Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2017_arxiv_rethinking_atrous_convolution_for_semantic_image_segmentation.pdf)**," *arXiv*, 2017.
 - "**[Learning Deconvolution Network for Semantic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2015_iccv_deconvolution.pdf)**," *ICCV*, 2015.
 - "[Fully Convolutional Networks for Semantic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2015_cvpr_fcn_for_semantic_segmentation.pdf)," *CVPR*, 2015.
-
+- "**[Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2011_nips_dense_crf.pdf)**," *NeurIPS*, 2011.
 
 
 ## Captioning
@@ -65,8 +66,10 @@
 
 ## Visual Question Answering
 
+- "**[Reasoning on the Relation: Enhancing Visual Representation for Visual Question Answering and Cross-modal Retrieval](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2020_tmm_reasoning_on_the_relation_enhancing_visual_representation_for_vqa_and_cross_modal_etrieval.pdf)**," *IEEE TMM*, 2020.
 - "**[Motion-Appearance Co-Memory Networks for Video Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2018_cvpr_motion_appearance_co_memory_networks_for_video_question_answering.pdf)**," *CVPR*, 2018.
 - "**[Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2018_cvpr_overcoming_priors_for_vqa.pdf)**," *CVPR*, 2018.
+- "**[Visual Question Answering: A Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2017_ieeespm_vqa_tutorial.pdf)**," *IEEE Signal Processing Magazine*, 2017,
 - "**[Uncovering Temporal Context for Video Question and Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2017_ijcv_uncovering_temporal_context_for_video_qa.pdf)**," *IJCV*, 2017.
 - "**[C-VQA: A Compositional Split of the Visual Question Answering (VQA) v1.0 Dataset](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2017_arxiv_c_vqa.pdf)**," *arXiv*, 2017.
 - "**[End-to-end Concept Word Detection for Video Captioning, Retrieval, and Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2017_cvpr_end-to-end_concept_word_detection.pdf)**," *CVPR*, 2017.
@@ -80,6 +83,7 @@
 
 - "**[VisualCOMET: Reasoning about the Dynamic Context of a Still Image](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2020_arxiv_visual_comet.pdf)**," *arXiv*, 2020.
 - "[Visual Commonsense R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2020_cvpr_vc_r_cnn.pdf)," *CVPR*, 2020.
+- "**[Give Me Something to Eat: Referring Expression Comprehension with Commonsense Knowledge](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2020_acmmm_give_me_something_to_eat_referring_expression_comprehension_with_commonsense_knowledge.pdf)**," *ACM MM*, 2020.
 - "[From Recognition to Cognition: Visual Commonsense Reasoning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2019_cvpr_vcr.pdf)," *CVPR*, 2019.
 - "**[Heterogeneous Graph Learning for Visual Commonsense Reasoning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2019_nips_heterogeneous_graph_learning_for_visual_commonsense_reasoning.pdf)**," *NeurIPS*, 2019.
 - "**[Stating the Obvious: Extracting Visual Common Sense Knowledge](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2016_naacl_stating_the_obvious_extracting_visual_common_sense_knowledge.pdf)**," *NAACL*, 2016.
@@ -100,19 +104,19 @@
 
 ## Attentions
 
-- "**[VL-BERT: Pre-Training of Generic Visuallinguistic Representations]()**," *ICLR*, 2020.
-- "**[VisualBERT: A Simple and Performant Baseline for Vision and Language]()**," *arXiv*, 2019.
-- "**[ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks]()**," *arXiv*, 2019.
-- "**[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding]()**," *EMNLP*, 2018.
-- "**[Attention is All You Need]()**," *NeurIPS*, 2017.
-- "**[Neural Machine Translation by Jointly Learning to Align and Translate]()**," *ICLR*, 2015.
+- "**[VL-BERT: Pre-Training of Generic Visuallinguistic Representations](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2020_iclr_vl_bert.pdf)**," *ICLR*, 2020.
+- "**[VisualBERT: A Simple and Performant Baseline for Vision and Language](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2019_arxiv_visual_bert.pdf)**," *arXiv*, 2019.
+- "**[ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2019_arxiv_vil_bert.pdf)**," *arXiv*, 2019.
+- "**[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2018_emnlp_bert.pdf)**," *EMNLP*, 2018.
+- "**[Attention is All You Need](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2017_nips_transformer.pdf)**," *NeurIPS*, 2017.
+- "**[Neural Machine Translation by Jointly Learning to Align and Translate](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2015_iclr_attention.pdf)**," *ICLR*, 2015.
 
 
 
 ## Metrics
 
-- "**[SPICE: Semantic Propositional Image Caption Evaluation]()**," *ECCV*, 2016.
-- "**[CIDEr: Consensus-based Image Description Evaluation]()**," *CVPR*, 2015.
-- "**[BLEU: a Method for Automatic Evaluation of Machine Translation]()**," *ACL*, 2002.
+- "**[SPICE: Semantic Propositional Image Caption Evaluation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Metrics/2016_eccv_spice.pdf)**," *ECCV*, 2016.
+- "**[CIDEr: Consensus-based Image Description Evaluation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Metrics/2015_cvpr_cider.pdf)**," *CVPR*, 2015.
+- "**[BLEU: a Method for Automatic Evaluation of Machine Translation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Metrics/2002_acl_bleu.pdf)**," *ACL*, 2002.
 
 
