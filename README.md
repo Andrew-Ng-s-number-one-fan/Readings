@@ -16,7 +16,7 @@
 
 ## Classification
 
-- "**[Transductive Multi-View Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2015_tpami_transductive_multi_view_zero_shot_learning.pdf)**," *TPAMI*, 2015.
+- "**[Transductive Multi-View Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2015_tpami_transductive_multi_view_zero_shot_learning.pdf)**," *IEEE TPAMI*, 2015.
 - "**[Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2009_cvpr_between_class_attribute_transfer.pdf)**," *CVPR*, 2009.
 
 
