@@ -118,6 +118,8 @@
 
 - "**[SPICE: Semantic Propositional Image Caption Evaluation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Metrics/2016_eccv_spice.pdf)**," *ECCV*, 2016.
 - "**[CIDEr: Consensus-based Image Description Evaluation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Metrics/2015_cvpr_cider.pdf)**," *CVPR*, 2015.
+- "**[METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments]()**," *ACL Workshop*, 2005.
+- "**[Rouge: A Package for Automatic Evaluation of Summaries]()**," *Text Summarization Branches Uut*, 2004.
 - "**[BLEU: a Method for Automatic Evaluation of Machine Translation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Metrics/2002_acl_bleu.pdf)**," *ACL*, 2002.
 
 
