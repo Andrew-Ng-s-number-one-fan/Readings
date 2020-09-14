@@ -81,13 +81,13 @@
 
 ## Visual Commonsense
 
-- "**[VisualCOMET: Reasoning about the Dynamic Context of a Still Image](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2020_arxiv_visual_comet.pdf)**," *arXiv*, 2020.
+- "[VisualCOMET: Reasoning about the Dynamic Context of a Still Image](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2020_arxiv_visual_comet.pdf)," *arXiv*, 2020.
 - "[Visual Commonsense R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2020_cvpr_vc_r_cnn.pdf)," *CVPR*, 2020.
 - "**[Give Me Something to Eat: Referring Expression Comprehension with Commonsense Knowledge](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2020_acmmm_give_me_something_to_eat_referring_expression_comprehension_with_commonsense_knowledge.pdf)**," *ACM MM*, 2020.
 - "[From Recognition to Cognition: Visual Commonsense Reasoning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2019_cvpr_vcr.pdf)," *CVPR*, 2019.
 - "**[Heterogeneous Graph Learning for Visual Commonsense Reasoning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2019_nips_heterogeneous_graph_learning_for_visual_commonsense_reasoning.pdf)**," *NeurIPS*, 2019.
-- "**[Stating the Obvious: Extracting Visual Common Sense Knowledge](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2016_naacl_stating_the_obvious_extracting_visual_common_sense_knowledge.pdf)**," *NAACL*, 2016.
-- "**[Don’t Just Listen, Use Your Imagination: Leveraging Visual Common Sense for Non-Visual Tasks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2015_cvpr_leveraging_visual_common_sense_for_non_visual_tasks.pdf)**," *CVPR*, 2015.
+- "[Stating the Obvious: Extracting Visual Common Sense Knowledge](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2016_naacl_stating_the_obvious_extracting_visual_common_sense_knowledge.pdf)," *NAACL*, 2016.
+- "[Don’t Just Listen, Use Your Imagination: Leveraging Visual Common Sense for Non-Visual Tasks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2015_cvpr_leveraging_visual_common_sense_for_non_visual_tasks.pdf)," *CVPR*, 2015.
 
 
 
