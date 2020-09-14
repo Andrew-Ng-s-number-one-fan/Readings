@@ -109,6 +109,7 @@
 - "**[ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2019_arxiv_vil_bert.pdf)**," *arXiv*, 2019.
 - "**[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2018_emnlp_bert.pdf)**," *EMNLP*, 2018.
 - "**[Attention is All You Need](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2017_nips_transformer.pdf)**," *NeurIPS*, 2017.
+- "**[Convolutional Sequence to Sequence Learning]()**," *arXiv*, 2017.
 - "**[Neural Machine Translation by Jointly Learning to Align and Translate](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2015_iclr_attention.pdf)**," *ICLR*, 2015.
 
 
