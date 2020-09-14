@@ -59,6 +59,7 @@
 
 ## Captioning
 
+- "**[Attention on Attention for Image Captioning]()**," *ICCV*, 2019.
 - "**[Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Captioning/2018_cvpr_bottom_up_and_top_down_attention.pdf)**," *CVPR*, 2018.
 - "[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://github.com/Andrew-Ng-s-number-one-fan/Readings/tree/master/Captioning)," *ICML*, 2015.
 
@@ -70,6 +71,7 @@
 - "**[Deep Modular Co-Attention Networks for Visual Question Answering]()**," *CVPR*, 2019.
 - "**[Motion-Appearance Co-Memory Networks for Video Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2018_cvpr_motion_appearance_co_memory_networks_for_video_question_answering.pdf)**," *CVPR*, 2018.
 - "**[Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2018_cvpr_overcoming_priors_for_vqa.pdf)**," *CVPR*, 2018.
+- "**[Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering]()**," *CVPR*, 2017.
 - "**[Visual Question Answering: A Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2017_ieeespm_vqa_tutorial.pdf)**," *IEEE Signal Processing Magazine*, 2017,
 - "**[Uncovering Temporal Context for Video Question and Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2017_ijcv_uncovering_temporal_context_for_video_qa.pdf)**," *IJCV*, 2017.
 - "**[C-VQA: A Compositional Split of the Visual Question Answering (VQA) v1.0 Dataset](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2017_arxiv_c_vqa.pdf)**," *arXiv*, 2017.
@@ -94,12 +96,13 @@
 ## Causality
 
 - "".
-- "[Visual Commonsense R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2020_cvpr_vc_r_cnn.pdf)," *CVPR*, 2020.
+- "[Visual Commonsense R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_cvpr_vc_r_cnn.pdf)," *CVPR*, 2020.
 - "**[Counterfactual Samples Synthesizing for Robust Visual Question Answering]()**," *CVPR*, 2020.
 - "**[Counterfactual VQA: A Cause-Effect Look at Language Bias]()**," *arXiv*, 2020.
 - "**[Two Causal Principles for Improving Visual Dialog](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_cvpr_causal_principles.pdf)**," *CVPR*, 2020.
 - "**[Unbiased Scene Graph Generation from Biased Training](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_cvpr_unbiased_sgg_from_biased_training.pdf)**," *CVPR*, 2020.
 - "**[Deconfounded Image Captioning: A Causal Retrospect](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_arxiv_deconfounded_image_captioning.pdf)**," *arXiv*, 2020.
+- "**[Discovering Causal Signals in Images]()**," *CVPR*, 2017.
 
 
 
@@ -117,6 +120,7 @@
 
 ## Metrics
 
+- "**[CHAIR: Object Hallucination in Image Captioning]()**," *EMNLP*, 2018.
 - "**[SPICE: Semantic Propositional Image Caption Evaluation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Metrics/2016_eccv_spice.pdf)**," *ECCV*, 2016.
 - "**[CIDEr: Consensus-based Image Description Evaluation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Metrics/2015_cvpr_cider.pdf)**," *CVPR*, 2015.
 - "**[METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments]()**," *ACL Workshop*, 2005.
