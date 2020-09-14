@@ -67,6 +67,7 @@
 ## Visual Question Answering
 
 - "**[Reasoning on the Relation: Enhancing Visual Representation for Visual Question Answering and Cross-modal Retrieval](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2020_tmm_reasoning_on_the_relation_enhancing_visual_representation_for_vqa_and_cross_modal_etrieval.pdf)**," *IEEE TMM*, 2020.
+- "**[Deep Modular Co-Attention Networks for Visual Question Answering]()**," *CVPR*, 2019.
 - "**[Motion-Appearance Co-Memory Networks for Video Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2018_cvpr_motion_appearance_co_memory_networks_for_video_question_answering.pdf)**," *CVPR*, 2018.
 - "**[Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2018_cvpr_overcoming_priors_for_vqa.pdf)**," *CVPR*, 2018.
 - "**[Visual Question Answering: A Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/VQA/2017_ieeespm_vqa_tutorial.pdf)**," *IEEE Signal Processing Magazine*, 2017,
@@ -82,7 +83,6 @@
 ## Visual Commonsense
 
 - "[VisualCOMET: Reasoning about the Dynamic Context of a Still Image](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2020_arxiv_visual_comet.pdf)," *arXiv*, 2020.
-- "[Visual Commonsense R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2020_cvpr_vc_r_cnn.pdf)," *CVPR*, 2020.
 - "**[Give Me Something to Eat: Referring Expression Comprehension with Commonsense Knowledge](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2020_acmmm_give_me_something_to_eat_referring_expression_comprehension_with_commonsense_knowledge.pdf)**," *ACM MM*, 2020.
 - "[From Recognition to Cognition: Visual Commonsense Reasoning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2019_cvpr_vcr.pdf)," *CVPR*, 2019.
 - "**[Heterogeneous Graph Learning for Visual Commonsense Reasoning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2019_nips_heterogeneous_graph_learning_for_visual_commonsense_reasoning.pdf)**," *NeurIPS*, 2019.
@@ -93,7 +93,8 @@
 
 ## Causality
 
-- "
+- "".
+- "[Visual Commonsense R-CNN](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Visual%20Commonsense/2020_cvpr_vc_r_cnn.pdf)," *CVPR*, 2020.
 - "**[Counterfactual Samples Synthesizing for Robust Visual Question Answering]()**," *CVPR*, 2020.
 - "**[Counterfactual VQA: A Cause-Effect Look at Language Bias]()**," *arXiv*, 2020.
 - "**[Two Causal Principles for Improving Visual Dialog](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Causality/2020_cvpr_causal_principles.pdf)**," *CVPR*, 2020.
