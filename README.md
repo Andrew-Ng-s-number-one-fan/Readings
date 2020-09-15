@@ -71,6 +71,7 @@
 
 - "**[Attention on Attention for Image Captioning]()**," *ICCV*, 2019.
 - "**[Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Captioning/2018_cvpr_bottom_up_and_top_down_attention.pdf)**," *CVPR*, 2018.
+- "**[DenseCap: Fully Convolutional Localization Networks for Dense Captioning]()**," *CVPR*, 2016.
 - "[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://github.com/Andrew-Ng-s-number-one-fan/Readings/tree/master/Captioning)," *ICML*, 2015.
 
 
