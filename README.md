@@ -4,14 +4,14 @@
 
   **0. [Surveys](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#survey)** <br>
   **1. [Classification](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#classification)** <br>
-  **2. [Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#detection)** <br>
-  **3. [Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#segmentation)** <br>
-  **4. [Captioning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#captioning)** <br>
-  **5. [Visual Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-question-answering)** <br>
-  **6. [Visual Commonsense](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-commonsense)** <br>
-  **7. [Causality](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#causality)** <br>
-  **8. [Attentions](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#attention)** <br>
-  **9. [Domain Adaptation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#domain-adaptation)** <br>
+  **2. [Domain Adaptation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#domain-adaptation)** <br>
+  **3. [Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#detection)** <br>
+  **4. [Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#segmentation)** <br>
+  **5. [Captioning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#captioning)** <br>
+  **6. [Visual Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-question-answering)** <br>
+  **7. [Visual Commonsense](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-commonsense)** <br>
+  **8. [Causality](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#causality)** <br>
+  **9. [Attentions](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#attention)** <br>
   **10. [Metrics](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#metrics)** <br>
 
 
@@ -20,10 +20,12 @@
 
 - "**[A Survey of Learning Causality with Data: Problems and Methods]()**," *ACM Computing Surveys*, 2020.
 - "**[Generalizing from a Few Examples: A Survey on Few-Shot Learning]()**," *ACM Computing Surveys*, 2020.
+- "**[Overcoming Negative Transfer: A Survey]()**," *arXiv*, 2020.
 - "**[Image Segmentation using Deep Learning: A Survey]()**," *arXiv*, 2020.
 - "**[Deep Learning for Generic Object Detection: A Survey]()**," *IJCV*, 2020.
 - "**[An Attentive Survey of Attention Models]()**," *arXiv*, 2019.
 - "**[A Comprehensive Survey of Deep Learning for Image Captioning]()**," *ACM Computing Surveys*, 2019.
+- "**[Recent Advances in Zero-shot Recognition]()**," *IEEE Signal Processing Magazine*, 2018.
 - "**[Deep Visual Domain Adaptation: A Survey]()**," *Neurocomputing*, 2018.
 - "**[Multimodal Machine Learning: A Survey and Taxonomy]()**," *IEEE TPAMI*, 2018.
 - "**[A Comprehensive Survey of Deep Learning for Image Captioning]()**," *ACM Computing Surveys*, 2018.
@@ -42,8 +44,27 @@
 
 
 
+## Domain Adaptation
+
+- "**[Open Compound Domain Adaptation]()**," *CVPR*, 2020.
+- "**[Delving into Inter-Image Invariance for Unsupervised Visual Representations]()**," *arXiv*, 2020.
+- "**[Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly]()**," *IEEE TPAMI*, 2019.
+- "**[Large-Scale Long-Tailed Recognition in an OpenWorld]()**," *CVPR*, 2019.
+- "**[f-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning]()**," *CVPR*, 2019.
+- "**[Feature Generating Networks for Zero-Shot Learning]()**," *CVPR*, 2018.
+- "**[Semantic Autoencoder for Zero-Shot Learning]()**," *CVPR*, 2017.
+- "**[Latent Embeddings for Zero-shot Classification]()**," *CVPR*, 2016.
+- "**[Transductive Multi-view Zero-Shot Learning]()**," *IEEE TPAMI*, 2015.
+- "**[Zero-Shot Learning via Semantic Similarity Embedding]()**," *ICCV*, 2015.
+- "**[Ridge Regression, Hubness, and Zero-Shot Learning]()**," *EMNLP*, 2015.
+- "**[Zero-Shot Learning Through Cross-Modal Transfer]()**," *NeurIPS*, 2013.
+- "**[Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer]()**," *CVPR*, 2009.
+
+
+
 ## Detection
 
+- "**[Learning to Segment the Tail]()**," *CVPR*, 2020.
 - "**[YOLOv4: Optimal Speed and Accuracy of Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2020_arxiv_yolo_v4.pdf)**,"  *arXiv*, 2020.
 - "**[Reasoning-RCNN: Unifying Adaptive Global Reasoning into Large-Scale Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2019_cvpr_reasoning_rcnn.pdf)**," *CVPR*, 2019.
 - "**[Deformable ConvNets v2: More Deformable, Better Results](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2019_cvpr_deformable_conv_nets_v2.pdf)**," *CVPR*, 2019.
@@ -138,12 +159,6 @@
 - "**[Attention is All You Need](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2017_nips_transformer.pdf)**," *NeurIPS*, 2017.
 - "**[Convolutional Sequence to Sequence Learning]()**," *arXiv*, 2017.
 - "[Neural Machine Translation by Jointly Learning to Align and Translate](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2015_iclr_attention.pdf)," *ICLR*, 2015.
-
-
-
-## Domain Adaptation
-
-- "**[Open Compound Domain Adaptation]()**," *CVPR*, 2020.
 
 
 
