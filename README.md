@@ -21,6 +21,7 @@
 - "**[Multimodal Machine Learning: A Survey and Taxonomy]()**," *IEEE TPAMI*, 2018.
 - "**[A Comprehensive Survey of Deep Learning for Image Captioning]()**," *ACM Computing Surveys*, 2018.
 - "**[Visual Question Answering: A Survey of Methods and Datasets]()**," *Computer Vision and Image Understanding*, 2017.
+- "**[Representation Learning: A Review and New Perspectives]()**," *arXiv*, 2014.
 
 
 
