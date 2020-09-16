@@ -18,8 +18,15 @@
 ## Surveys
 
 - "**[A Survey of Learning Causality with Data: Problems and Methods]()**," *ACM Computing Surveys*, 2020.
+- "**[Generalizing from a Few Examples: A Survey on Few-Shot Learning]()**," *ACM Computing Surveys*, 2020.
+- "**[Image Segmentation using Deep Learning: A Survey]()**," *arXiv*, 2020.
+- "**[Deep Learning for Generic Object Detection: A Survey]()**," *IJCV*, 2020.
+- "**[An Attentive Survey of Attention Models]()**," *arXiv*, 2019.
 - "**[A Comprehensive Survey of Deep Learning for Image Captioning]()**," *ACM Computing Surveys*, 2019.
+- "**[Deep Visual Domain Adaptation: A Survey]()**," *Neurocomputing*, 2018.
 - "**[Multimodal Machine Learning: A Survey and Taxonomy]()**," *IEEE TPAMI*, 2018.
+- "**[A Comprehensive Survey of Deep Learning for Image Captioning]()**," *ACM Computing Surveys*, 2018.
+- "**[A Survey on Deep Learning Techniques for Image and Video Semantic Segmentation]()**," *Applied Soft Computing*, 2018.
 - "**[Visual Question Answering: A Survey of Methods and Datasets]()**," *Computer Vision and Image Understanding*, 2017.
 - "**[Representation Learning: A Review and New Perspectives]()**," *arXiv*, 2014.
 
@@ -130,6 +137,12 @@
 - "**[Attention is All You Need](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2017_nips_transformer.pdf)**," *NeurIPS*, 2017.
 - "**[Convolutional Sequence to Sequence Learning]()**," *arXiv*, 2017.
 - "[Neural Machine Translation by Jointly Learning to Align and Translate](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2015_iclr_attention.pdf)," *ICLR*, 2015.
+
+
+
+## Domain Adaptation
+
+- "**[Open Compound Domain Adaptation]()**," *CVPR*, 2020.
 
 
 
