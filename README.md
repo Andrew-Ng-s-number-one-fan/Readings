@@ -27,6 +27,7 @@
 
 ## Classification
 
+- "**[Non-local Neural Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2018_cvpr_non_local_neural_networks.pdf)**," *CVPR*, 2018.
 - "**[Transductive Multi-View Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2015_tpami_transductive_multi_view_zero_shot_learning.pdf)**," *IEEE TPAMI*, 2015.
 - "**[Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2009_cvpr_between_class_attribute_transfer.pdf)**," *CVPR*, 2009.
 
@@ -39,7 +40,6 @@
 - "**[Deformable ConvNets v2: More Deformable, Better Results](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2019_cvpr_deformable_conv_nets_v2.pdf)**," *CVPR*, 2019.
 - "**[Objects as Points](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2019_arxiv_objects_as_points.pdf)**," *arXiv*, 2019.
 - "**[CornerNet: Detecting Objects as Paired Keypoints](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2018_eccv_corner_net.pdf)**," *ECCV*, 2018.
-- "**[Non-local Neural Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2018_cvpr_non_local_neural_networks.pdf)**," *CVPR*, 2018.
 - "**[YOLOv3: An Incremental Improvement](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2018_arxiv_yolo_v3.pdf)**,"" *arXiv*, 2018.
 - "**[Focal Loss for Dense Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_iccv_focal_loss.pdf)**," *ICCV*, 2017.
 - "**[Feature Pyramid Networks for Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_cvpr_fpn.pdf)**," *CVPR*, 2017.
@@ -72,7 +72,9 @@
 
 - "**[Attention on Attention for Image Captioning]()**," *ICCV*, 2019.
 - "**[Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Captioning/2018_cvpr_bottom_up_and_top_down_attention.pdf)**," *CVPR*, 2018.
-- "**[DenseCap: Fully Convolutional Localization Networks for Dense Captioning]()**," *CVPR*, 2016.
+- "**[Dense-Captioning Events in Videos]()**," *ICCV*, 2017.
+- "[DenseCap: Fully Convolutional Localization Networks for Dense Captioning]()," *CVPR*, 2016.
+- "**[Deep Visual-Semantic Alignments for Generating Image Descriptions]()**," *CVPR*, 2015.
 - "[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://github.com/Andrew-Ng-s-number-one-fan/Readings/tree/master/Captioning)," *ICML*, 2015.
 
 
@@ -126,6 +128,7 @@
 - "**[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2018_emnlp_bert.pdf)**," *EMNLP*, 2018.
 - "**[Attention is All You Need](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2017_nips_transformer.pdf)**," *NeurIPS*, 2017.
 - "**[Convolutional Sequence to Sequence Learning]()**," *arXiv*, 2017.
+- "**[Spatial Transformer Networks]()**," *NeurIPS*, 2015.
 - "**[Neural Machine Translation by Jointly Learning to Align and Translate](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2015_iclr_attention.pdf)**," *ICLR*, 2015.
 
 
