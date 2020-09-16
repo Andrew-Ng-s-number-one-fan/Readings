@@ -18,20 +18,20 @@
 
 ## Surveys
 
-- "**[A Survey of Learning Causality with Data: Problems and Methods]()**," *ACM Computing Surveys*, 2020.
-- "**[Generalizing from a Few Examples: A Survey on Few-Shot Learning]()**," *ACM Computing Surveys*, 2020.
-- "**[Overcoming Negative Transfer: A Survey]()**," *arXiv*, 2020.
-- "**[Image Segmentation using Deep Learning: A Survey]()**," *arXiv*, 2020.
-- "**[Deep Learning for Generic Object Detection: A Survey]()**," *IJCV*, 2020.
-- "**[An Attentive Survey of Attention Models]()**," *arXiv*, 2019.
-- "**[A Comprehensive Survey of Deep Learning for Image Captioning]()**," *ACM Computing Surveys*, 2019.
-- "**[Recent Advances in Zero-shot Recognition]()**," *IEEE Signal Processing Magazine*, 2018.
-- "**[Deep Visual Domain Adaptation: A Survey]()**," *Neurocomputing*, 2018.
-- "**[Multimodal Machine Learning: A Survey and Taxonomy]()**," *IEEE TPAMI*, 2018.
+- "**[A Survey of Learning Causality with Data: Problems and Methods](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2020_acmcs_learning_causality_with_data.pdf)**," *ACM Computing Surveys*, 2020.
+- "**[Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2020_acmcs_survey_few_shot_learning.pdf)**," *ACM Computing Surveys*, 2020.
+- "**[Overcoming Negative Transfer: A Survey](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2020_arxiv_survey_overcoming_negative_transfer.pdf)**," *arXiv*, 2020.
+- "**[Image Segmentation using Deep Learning: A Survey](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2020_arxiv_image_segmentation_using_dl.pdf)**," *arXiv*, 2020.
+- "**[Deep Learning for Generic Object Detection: A Survey](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2020_ijcv_survey_deep_learning_for_generic_object_detection.pdf)**," *IJCV*, 2020.
+- "**[Multimodal Machine Learning: A Survey and Taxonomy](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2019_tpami_multimodal_ml.pdf)**," *IEEE TPAMI*, 2019.
+- "**[An Attentive Survey of Attention Models](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2019_arxiv_an_attentive_survey_of_attention_models.pdf)**," *arXiv*, 2019.
+- "**[A Comprehensive Survey of Deep Learning for Image Captioning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2018_acmcs_dl_for_image_captioning.pdf)**," *ACM Computing Surveys*, 2019.
+- "**[Recent Advances in Zero-shot Recognition](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2018_spm_recent_advances_in_zero_shot_recognition.pdf)**," *IEEE Signal Processing Magazine*, 2018.
+- "**[Deep Visual Domain Adaptation: A Survey](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2018_neurocomp_survey_deep_visual_domain_adaptation.pdf)**," *Neurocomputing*, 2018.
 - "**[A Comprehensive Survey of Deep Learning for Image Captioning]()**," *ACM Computing Surveys*, 2018.
-- "**[A Survey on Deep Learning Techniques for Image and Video Semantic Segmentation]()**," *Applied Soft Computing*, 2018.
-- "**[Visual Question Answering: A Survey of Methods and Datasets]()**," *Computer Vision and Image Understanding*, 2017.
-- "**[Representation Learning: A Review and New Perspectives]()**," *arXiv*, 2014.
+- "**[A Survey on Deep Learning Techniques for Image and Video Semantic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2018_asc_survey_dl_techniques_for_image_and_video_semantic_segmentation.pdf)**," *Applied Soft Computing*, 2018.
+- "**[Visual Question Answering: A Survey of Methods and Datasets](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2017_cviu_vqa_a_survey_of_methods_and_datasets.pdf)**," *Computer Vision and Image Understanding*, 2017.
+- "**[Representation Learning: A Review and New Perspectives](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2014_arxiv_representation_learning_review_and_new_perspectives.pdf)**," *arXiv*, 2014.
 
 
 
@@ -46,19 +46,19 @@
 
 ## Domain Adaptation
 
-- "**[Open Compound Domain Adaptation]()**," *CVPR*, 2020.
-- "**[Delving into Inter-Image Invariance for Unsupervised Visual Representations]()**," *arXiv*, 2020.
-- "**[Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly]()**," *IEEE TPAMI*, 2019.
-- "**[Large-Scale Long-Tailed Recognition in an OpenWorld]()**," *CVPR*, 2019.
-- "**[f-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning]()**," *CVPR*, 2019.
-- "**[Feature Generating Networks for Zero-Shot Learning]()**," *CVPR*, 2018.
-- "**[Semantic Autoencoder for Zero-Shot Learning]()**," *CVPR*, 2017.
-- "**[Latent Embeddings for Zero-shot Classification]()**," *CVPR*, 2016.
-- "**[Transductive Multi-view Zero-Shot Learning]()**," *IEEE TPAMI*, 2015.
-- "**[Zero-Shot Learning via Semantic Similarity Embedding]()**," *ICCV*, 2015.
-- "**[Ridge Regression, Hubness, and Zero-Shot Learning]()**," *EMNLP*, 2015.
-- "**[Zero-Shot Learning Through Cross-Modal Transfer]()**," *NeurIPS*, 2013.
-- "**[Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer]()**," *CVPR*, 2009.
+- "**[Open Compound Domain Adaptation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2020_cvpr_open_compound_domain_adaptation.pdf)**," *CVPR*, 2020.
+- "**[Delving into Inter-Image Invariance for Unsupervised Visual Representations](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2020_arxiv_delving_into_inter_Image_invariance_for_unsupervised_visual_representations.pdf)**," *arXiv*, 2020.
+- "**[Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2019_tpami_zero_shot_learning_a_comprehensive_evaluation_of_the_good_the_bad_and_the_ugly.pdf)**," *IEEE TPAMI*, 2019.
+- "**[Large-Scale Long-Tailed Recognition in an OpenWorld](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2019_cvpr_large_scale_long_tailed_recognition_in_an_open_world.pdf)**," *CVPR*, 2019.
+- "**[f-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2019_cvpr_f_vaegan_d2.pdf)**," *CVPR*, 2019.
+- "**[Feature Generating Networks for Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2018_cvpr_feature_generating_networks_for_zero_shot_learning.pdf)**," *CVPR*, 2018.
+- "**[Semantic Autoencoder for Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2017_cvpr_semantic_autoencoder_for_zero_shot_learning.pdf)**," *CVPR*, 2017.
+- "**[Latent Embeddings for Zero-shot Classification](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2016_cvpr_latent_embeddings_for_zero_shot_classification.pdf)**," *CVPR*, 2016.
+- "**[Transductive Multi-view Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2015_tpami_transductive_multi_view_zero_shot_learning.pdf)**," *IEEE TPAMI*, 2015.
+- "**[Zero-Shot Learning via Semantic Similarity Embedding](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2015_iccv_zero_shot_learning_via_semantic_similarity_embedding.pdf)**," *ICCV*, 2015.
+- "**[Ridge Regression, Hubness, and Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2015_emnlp_ridge_regression_hubness_and_zero_shot_learning.pdf)**," *EMNLP*, 2015.
+- "**[Zero-Shot Learning Through Cross-Modal Transfer](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2013_nips_zero_shot_learning_through_cross_modal_transfer.pdf)**," *NeurIPS*, 2013.
+- "**[Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2009_cvpr_learning_to_detect_unseen_object_classes_by_between_class_attribute_transfer.pdf)**," *CVPR*, 2009.
 
 
 
