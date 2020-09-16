@@ -129,7 +129,7 @@
 - "**[Attention is All You Need](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2017_nips_transformer.pdf)**," *NeurIPS*, 2017.
 - "**[Convolutional Sequence to Sequence Learning]()**," *arXiv*, 2017.
 - "**[Spatial Transformer Networks]()**," *NeurIPS*, 2015.
-- "**[Neural Machine Translation by Jointly Learning to Align and Translate](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2015_iclr_attention.pdf)**," *ICLR*, 2015.
+- "[Neural Machine Translation by Jointly Learning to Align and Translate](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2015_iclr_attention.pdf)," *ICLR*, 2015.
 
 
 
