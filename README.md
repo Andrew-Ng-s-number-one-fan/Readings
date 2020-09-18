@@ -64,7 +64,6 @@
 
 ## Detection
 
-- "**[Learning to Segment the Tail]()**," *CVPR*, 2020.
 - "**[YOLOv4: Optimal Speed and Accuracy of Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2020_arxiv_yolo_v4.pdf)**,"  *arXiv*, 2020.
 - "**[Reasoning-RCNN: Unifying Adaptive Global Reasoning into Large-Scale Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2019_cvpr_reasoning_rcnn.pdf)**," *CVPR*, 2019.
 - "**[Deformable ConvNets v2: More Deformable, Better Results](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2019_cvpr_deformable_conv_nets_v2.pdf)**," *CVPR*, 2019.
@@ -87,6 +86,7 @@
 
 ## Segmentation
 
+- "**[Learning to Segment the Tail]()**," *CVPR*, 2020.
 - "**[Panoptic Feature Pyramid Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2019_cvpr_panoptic_fpn.pdf)**," *CVPR*, 2019.
 - "**[Panoptic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2019_cvpr_panoptic_segmentation.pdf)**," *CVPR*, 2019.
 - "**[DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Segmentation/2018_tpami_deeplab.pdf)**," *IEEE TPAMI*, 2018.
