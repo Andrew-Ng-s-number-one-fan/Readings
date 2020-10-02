@@ -38,6 +38,7 @@
 ## Classification
 
 - "**[Non-local Neural Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2018_cvpr_non_local_neural_networks.pdf)**," *CVPR*, 2018.
+- "[Xception: Deep Learning with Depthwise Separable Convolutions]()," *CVPR*, 2017.
 - "[Going Deeper with Convolutions]()," *CVPR*, 2015.
 - "[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift]()," *arXiv*, 2015.
 - "**[Transductive Multi-View Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2015_tpami_transductive_multi_view_zero_shot_learning.pdf)**," *IEEE TPAMI*, 2015.
@@ -73,7 +74,6 @@
 - "**[CornerNet: Detecting Objects as Paired Keypoints](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2018_eccv_corner_net.pdf)**," *ECCV*, 2018.
 - "**[YOLOv3: An Incremental Improvement](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2018_arxiv_yolo_v3.pdf)**,"" *arXiv*, 2018.
 - "[MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications]()," *CVPR*, 2017.
-- "[Xception: Deep Learning with Depthwise Separable Convolutions]()," *CVPR*, 2017.
 - "**[Focal Loss for Dense Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_iccv_focal_loss.pdf)**," *ICCV*, 2017.
 - "[Feature Pyramid Networks for Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_cvpr_fpn.pdf)," *CVPR*, 2017.
 - "**[Deformable Convolutional Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_iccv_deformable_convolutional_nets%20.pdf)**," *ICCV*, 2017.
