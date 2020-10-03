@@ -39,6 +39,7 @@
 
 - "[Searching for MobileNetV3](http://openaccess.thecvf.com/content_ICCV_2019/papers/Howard_Searching_for_MobileNetV3_ICCV_2019_paper.pdf)," *ICCV*, 2019.
 - "[MobileNetV2: Inverted Residuals and Linear Bottlenecks]()," *CVPR*, 2018.
+- "[ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices]()," *CVPR*, 2018.
 - "**[Non-local Neural Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2018_cvpr_non_local_neural_networks.pdf)**," *CVPR*, 2018.
 - "[MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications]()," *CVPR*, 2017.
 - "[Xception: Deep Learning with Depthwise Separable Convolutions]()," *CVPR*, 2017.
