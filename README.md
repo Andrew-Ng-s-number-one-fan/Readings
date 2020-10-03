@@ -48,6 +48,7 @@
 - "**[Transductive Multi-View Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2015_tpami_transductive_multi_view_zero_shot_learning.pdf)**," *IEEE TPAMI*, 2015.
 - "**[Spatial Transformer Networks]()**," *NeurIPS*, 2015.
 - "**[Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2009_cvpr_between_class_attribute_transfer.pdf)**," *CVPR*, 2009.
+- "[轻量级神经网络“巡礼”（二）—— MobileNet，从V1到V3](https://zhuanlan.zhihu.com/p/70703846)," *知乎*.
 
 
 
@@ -88,7 +89,6 @@
 - "[Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2015_tpami_spp_net.pdf)," *IEEE TPAMI*, 2015.
 - "[Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2014_cvpr_r_cnn.pdf)," *CVPR*, 2014.
 - "**[Selective Search for Object Recognition](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2013_ijcv_selective_search.pdf)**," *IJCV*, 2013.
-- "[轻量级神经网络“巡礼”（二）—— MobileNet，从V1到V3](https://zhuanlan.zhihu.com/p/70703846)," *知乎*.
 
 
 
