@@ -50,6 +50,7 @@
 - "**[Transductive Multi-View Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2015_tpami_transductive_multi_view_zero_shot_learning.pdf)**," *IEEE TPAMI*, 2015.
 - "**[Spatial Transformer Networks]()**," *NeurIPS*, 2015.
 - "**[Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2009_cvpr_between_class_attribute_transfer.pdf)**," *CVPR*, 2009.
+- "[CNN模型之ShuffleNet（PyTorch实现）](https://zhuanlan.zhihu.com/p/32304419)," *知乎*.
 - "[轻量级神经网络“巡礼”（二）—— MobileNet，从V1到V3](https://zhuanlan.zhihu.com/p/70703846)," *知乎*.
 - "[MobileNet v1 和 MobileNet v2（Keras实现）](https://zhuanlan.zhihu.com/p/50045821)," *知乎*.
 - "**[Why MobileNet and Its Variants (e.g. ShuffleNet) are Fast](https://medium.com/@yu4u/why-mobilenet-and-its-variants-e-g-shufflenet-are-fast-1c7048b9618d)**," *Medium*.
