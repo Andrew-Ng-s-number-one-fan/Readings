@@ -85,6 +85,7 @@
 - "**[CornerNet: Detecting Objects as Paired Keypoints](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2018_eccv_corner_net.pdf)**," *ECCV*, 2018.
 - "**[YOLOv3: An Incremental Improvement](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2018_arxiv_yolo_v3.pdf)**,"" *arXiv*, 2018.
 - "**[Focal Loss for Dense Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_iccv_focal_loss.pdf)**," *ICCV*, 2017.
+- "[SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Wu_SqueezeDet_Unified_Small_CVPR_2017_paper.pdf)," *CVPR*, 2017.
 - "[Feature Pyramid Networks for Object Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_cvpr_fpn.pdf)," *CVPR*, 2017.
 - "**[Deformable Convolutional Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2017_iccv_deformable_convolutional_nets%20.pdf)**," *ICCV*, 2017.
 - "[R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Detection/2016_nips_r_fcn.pdf)," *NeurIPS*, 2016.
