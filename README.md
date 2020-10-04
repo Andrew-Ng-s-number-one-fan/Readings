@@ -38,11 +38,13 @@
 ## Classification
 
 - "[Searching for MobileNetV3](http://openaccess.thecvf.com/content_ICCV_2019/papers/Howard_Searching_for_MobileNetV3_ICCV_2019_paper.pdf)," *ICCV*, 2019.
+- "[Squeeze-and-Excitation Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)," *CVPR*, 2018.
 - "[MobileNetV2: Inverted Residuals and Linear Bottlenecks]()," *CVPR*, 2018.
 - "[ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices]()," *CVPR*, 2018.
 - "**[Non-local Neural Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2018_cvpr_non_local_neural_networks.pdf)**," *CVPR*, 2018.
 - "[MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications]()," *CVPR*, 2017.
 - "[Xception: Deep Learning with Depthwise Separable Convolutions]()," *CVPR*, 2017.
+- "[SqueezeNet: AlexNet-Level Accuracy with 50x Fewer Parameters and <0.5MB Model Size](https://arxiv.org/pdf/1602.07360)," *ICLR*, 2017.
 - "[Going Deeper with Convolutions]()," *CVPR*, 2015.
 - "[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift]()," *arXiv*, 2015.
 - "**[Transductive Multi-View Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2015_tpami_transductive_multi_view_zero_shot_learning.pdf)**," *IEEE TPAMI*, 2015.
