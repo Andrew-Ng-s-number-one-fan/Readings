@@ -38,6 +38,7 @@
 ## Classification
 
 - "[Searching for MobileNetV3](http://openaccess.thecvf.com/content_ICCV_2019/papers/Howard_Searching_for_MobileNetV3_ICCV_2019_paper.pdf)," *ICCV*, 2019.
+- "[SqueezeNext: Hardware-Aware Neural Network Design](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w33/Gholami_SqueezeNext_Hardware-Aware_Neural_CVPR_2018_paper.pdf)," *CVPR*, 2018.
 - "[Squeeze-and-Excitation Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)," *CVPR*, 2018.
 - "[MobileNetV2: Inverted Residuals and Linear Bottlenecks]()," *CVPR*, 2018.
 - "[ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices]()," *CVPR*, 2018.
