@@ -11,7 +11,7 @@
   **6. [Visual Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-question-answering)** <br>
   **7. [Visual Commonsense](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-commonsense)** <br>
   **8. [Causality](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#causality)** <br>
-  **9. [Attentions](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#attention)** <br>
+  **9. [Attentions](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#attentions)** <br>
   **10. [Metrics](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#metrics)** <br>
 
 
