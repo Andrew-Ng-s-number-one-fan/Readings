@@ -40,6 +40,7 @@
 ## Classification
 
 - "[Searching for MobileNetV3](http://openaccess.thecvf.com/content_ICCV_2019/papers/Howard_Searching_for_MobileNetV3_ICCV_2019_paper.pdf)," *ICCV*, 2019.
+- "[ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/pdf/1807.11164.pdf)," *ECCV*, 2018.
 - "[SqueezeNext: Hardware-Aware Neural Network Design](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w33/Gholami_SqueezeNext_Hardware-Aware_Neural_CVPR_2018_paper.pdf)," *CVPR*, 2018.
 - "[Squeeze-and-Excitation Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)," *CVPR*, 2018.
 - "[MobileNetV2: Inverted Residuals and Linear Bottlenecks]()," *CVPR*, 2018.
@@ -55,6 +56,7 @@
 - "**[Spatial Transformer Networks](http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf)**," *NeurIPS*, 2015.
 - "**[Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2009_cvpr_between_class_attribute_transfer.pdf)**," *CVPR*, 2009.
 - "[CNN模型之ShuffleNet（PyTorch实现）](https://zhuanlan.zhihu.com/p/32304419)," *知乎*.
+- "[轻量级神经网络“巡礼”（一）—— ShuffleNetV2](https://zhuanlan.zhihu.com/p/67009992)," *知乎*.
 - "[轻量级神经网络“巡礼”（二）—— MobileNet，从V1到V3](https://zhuanlan.zhihu.com/p/70703846)," *知乎*.
 - "[MobileNet v1 和 MobileNet v2（Keras实现）](https://zhuanlan.zhihu.com/p/50045821)," *知乎*.
 - "**[Why MobileNet and Its Variants (e.g. ShuffleNet) are Fast](https://medium.com/@yu4u/why-mobilenet-and-its-variants-e-g-shufflenet-are-fast-1c7048b9618d)**," *Medium*.
