@@ -183,6 +183,8 @@
 
 - "[VecQ: Minimal Loss DNN Model Compression With Vectorized Weight Quantization](https://arxiv.org/pdf/2005.08501.pdf)," *IEEE TC*, 2020.
 - "[uL2Q: An Ultra-Low Loss Quantization Method for DNN Compression](https://www.researchgate.net/profile/Yao_Chen14/publication/336167265_L2Q_An_Ultra-Low_Loss_Quantization_Method_for_DNN_Compression/links/5d9ae1a2299bf1c363fd05e2/L2Q-An-Ultra-Low-Loss-Quantization-Method-for-DNN-Compression.pdf), *IJCNN*, 2019.
+- "**[EIE: Efficient Inference Engine on Compressed Deep Neural Network](https://arxiv.org/pdf/1602.01528.pdf)**," *ISCA*, 2016.
+- "**[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149.pdf)**," *ICLR*, 2016.
 - "[Ternary Weight Networks](https://arxiv.org/pdf/1605.04711.pdf)," *NeurIPS Workshop*, 2016.
 - "[Binarized Neural Networks](http://papers.nips.cc/paper/6573-binarized-neural-networks.pdf)," *NeurIPS*, 2016.
 
