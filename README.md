@@ -45,11 +45,12 @@
 - "**[Non-local Neural Networks](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2018_cvpr_non_local_neural_networks.pdf)**," *CVPR*, 2018.
 - "[MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications]()," *CVPR*, 2017.
 - "[Xception: Deep Learning with Depthwise Separable Convolutions]()," *CVPR*, 2017.
+- "[Residual Attention Network for Image Classification](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Residual_Attention_Network_CVPR_2017_paper.pdf)," *CVPR*, 2017.
 - "[SqueezeNet: AlexNet-Level Accuracy with 50x Fewer Parameters and <0.5MB Model Size](https://arxiv.org/pdf/1602.07360)," *ICLR*, 2017.
 - "[Going Deeper with Convolutions]()," *CVPR*, 2015.
 - "[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift]()," *arXiv*, 2015.
 - "**[Transductive Multi-View Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2015_tpami_transductive_multi_view_zero_shot_learning.pdf)**," *IEEE TPAMI*, 2015.
-- "**[Spatial Transformer Networks]()**," *NeurIPS*, 2015.
+- "**[Spatial Transformer Networks](http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf)**," *NeurIPS*, 2015.
 - "**[Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Classification/2009_cvpr_between_class_attribute_transfer.pdf)**," *CVPR*, 2009.
 - "[CNN模型之ShuffleNet（PyTorch实现）](https://zhuanlan.zhihu.com/p/32304419)," *知乎*.
 - "[轻量级神经网络“巡礼”（二）—— MobileNet，从V1到V3](https://zhuanlan.zhihu.com/p/70703846)," *知乎*.
