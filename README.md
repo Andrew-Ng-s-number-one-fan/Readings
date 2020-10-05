@@ -12,7 +12,8 @@
   **7. [Visual Commonsense](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-commonsense)** <br>
   **8. [Causality](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#causality)** <br>
   **9. [Attentions](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#attentions)** <br>
-  **10. [Metrics](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#metrics)** <br>
+  **10. [Quantization](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#quantization)** <br>
+  **11. [Metrics](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#metrics)** <br>
 
 
 
@@ -176,6 +177,13 @@
 - "**[Convolutional Sequence to Sequence Learning]()**," *arXiv*, 2017.
 - "[Neural Machine Translation by Jointly Learning to Align and Translate](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Attentions/2015_iclr_attention.pdf)," *ICLR*, 2015.
 
+
+
+## Quantization
+
+- "[VecQ: Minimal Loss DNN Model Compression With Vectorized Weight Quantization](https://arxiv.org/pdf/2005.08501.pdf)," *IEEE TC*, 2020.
+- "[uL2Q: An Ultra-Low Loss Quantization Method for DNN Compression](https://www.researchgate.net/profile/Yao_Chen14/publication/336167265_L2Q_An_Ultra-Low_Loss_Quantization_Method_for_DNN_Compression/links/5d9ae1a2299bf1c363fd05e2/L2Q-An-Ultra-Low-Loss-Quantization-Method-for-DNN-Compression.pdf), *IJCNN*, 2019.
+- "[Ternary Weight Networks](https://arxiv.org/pdf/1605.04711.pdf)," *NeurIPS Workshop*, 2016.
 
 
 ## Metrics
