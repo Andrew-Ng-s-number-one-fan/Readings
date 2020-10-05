@@ -5,15 +5,16 @@
   **0. [Surveys](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#survey)** <br>
   **1. [Classification](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#classification)** <br>
   **2. [Domain Adaptation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#domain-adaptation)** <br>
-  **3. [Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#detection)** <br>
-  **4. [Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#segmentation)** <br>
-  **5. [Captioning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#captioning)** <br>
-  **6. [Visual Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-question-answering)** <br>
-  **7. [Visual Commonsense](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-commonsense)** <br>
-  **8. [Causality](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#causality)** <br>
-  **9. [Attentions](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#attentions)** <br>
-  **10. [Quantization](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#quantization)** <br>
-  **11. [Metrics](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#metrics)** <br>
+  **3. [Meta Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#meta-learning)** <br>
+  **4. [Detection](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#detection)** <br>
+  **5. [Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#segmentation)** <br>
+  **6. [Captioning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#captioning)** <br>
+  **7. [Visual Question Answering](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-question-answering)** <br>
+  **8. [Visual Commonsense](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#visual-commonsense)** <br>
+  **9. [Causality](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#causality)** <br>
+  **10. [Attentions](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#attentions)** <br>
+  **11. [Quantization](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#quantization)** <br>
+  **12. [Metrics](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/README.md#metrics)** <br>
 
 
 
@@ -75,6 +76,13 @@
 - "**[Ridge Regression, Hubness, and Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2015_emnlp_ridge_regression_hubness_and_zero_shot_learning.pdf)**," *EMNLP*, 2015.
 - "**[Zero-Shot Learning Through Cross-Modal Transfer](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2013_nips_zero_shot_learning_through_cross_modal_transfer.pdf)**," *NeurIPS*, 2013.
 - "**[Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2009_cvpr_learning_to_detect_unseen_object_classes_by_between_class_attribute_transfer.pdf)**," *CVPR*, 2009.
+
+
+
+## Meta Learning
+
+- "[Reptile: A Scalable Meta Learning Algorithm](https://d4mucfpksywv.cloudfront.net/research-covers/reptile/reptile_update.pdf), *arxiv*, 2018.
+- "[Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf)," *ICML*, 2017. 
 
 
 
