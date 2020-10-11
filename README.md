@@ -85,6 +85,13 @@
 
 - "[Reptile: A Scalable Meta Learning Algorithm](https://d4mucfpksywv.cloudfront.net/research-covers/reptile/reptile_update.pdf), *arxiv*, 2018.
 - "[Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf)," *ICML*, 2017. 
+- "[Fun with Small Image Data-Sets](https://towardsdatascience.com/fun-with-small-image-data-sets-8c83d95d0159)," *Medium*.
+- "[Paper repro: Deep Metalearning using “MAML” and “Reptile”](https://towardsdatascience.com/paper-repro-deep-metalearning-using-maml-and-reptile-fd1df1cc81b0)," *Medium*.
+- "[What is Model-Agnostic Meta-learning(MAML)?](https://towardsdatascience.com/model-agnostic-meta-learning-maml-8a245d9bc4ac)," *Medium*.
+- "[Advances in Few-Shot Learning: Reproducing Results in PyTorch](https://towardsdatascience.com/advances-in-few-shot-learning-reproducing-results-in-pytorch-aba70dee541d)," *Medium*.
+- "[元学习: 学习如何学习](https://wei-tianhao.github.io/blog/2019/09/17/meta-learning.html)," *Blog*.
+- "[Model-Agnostic Meta-Learning （MAML）模型介绍及算法详解](https://zhuanlan.zhihu.com/p/57864886)," *知乎*.
+- "[对MAML的深度解析](https://zhuanlan.zhihu.com/p/181709693)," *知乎*.
 
 
 
