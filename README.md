@@ -91,6 +91,7 @@
 - "[What is Model-Agnostic Meta-learning(MAML)?](https://towardsdatascience.com/model-agnostic-meta-learning-maml-8a245d9bc4ac)," *Medium*.
 - "[Advances in Few-Shot Learning: Reproducing Results in PyTorch](https://towardsdatascience.com/advances-in-few-shot-learning-reproducing-results-in-pytorch-aba70dee541d)," *Medium*.
 - "[元学习: 学习如何学习](https://wei-tianhao.github.io/blog/2019/09/17/meta-learning.html)," *Blog*.
+- "[[Meta-Learning]Matching Network详解](https://zhuanlan.zhihu.com/p/260187183)," *知乎*.
 - "[论文笔记：Matching Networks for One Shot Learning](https://zhuanlan.zhihu.com/p/32101204)," *知乎*.
 - "[基于匹配网络(Matching Networks)的FSL方法简述（一）](https://zhuanlan.zhihu.com/p/259546063)," *知乎*.
 - "[基于匹配网络(Matching Networks)的FSL方法简述（二）](https://zhuanlan.zhihu.com/p/259758231)," *知乎*.
